@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ValeyTransleitor.iml" filepath="$PROJECT_DIR$/.idea/ValeyTransleitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kursovik/kursovik.iml" filepath="$PROJECT_DIR$/kursovik/kursovik.iml" />
+    </modules>
+  </component>
+</project>
